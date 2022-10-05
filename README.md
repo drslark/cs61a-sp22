@@ -7,3 +7,4 @@ Structure and Interpretation of Computer Programs (UC Berkeley, Fall 2022)
 - [x] lab00
 - [x] hw01
 - [x] lab01
+- [x] hog
